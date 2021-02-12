@@ -2,7 +2,7 @@
 Building Blog App Using Node.js
 
 # Installation
-### 1
+## 1
 Install Node.js
 ### 2
 Install MySQL
